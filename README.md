@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 Welcome!
 
-<!--
-**Srishti36912/Srishti36912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 My Name is Srishti Tripathi.👩 I am currently a student in Shri Ramswaroop Memorial University taking B.Tech in Computer Science with specialization in Data Science and Artificial Intelligence.🤖
 
-Here are some ideas to get you started:
+I have a huge interest in Data Analysis and Machine Learning as well as coding!⌨ I am proficient in Python, SQL, Java, DSA and working on becoming a Data Analyst!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+Data Analysis| Data Visualization| Web Development
+
+- 🔭 I’m currently working on gathering opportunities for gaining experience
+- 🌱 I’m currently learning DSA in Java and Seaborn in Python
+- 👯 I’m looking to collaborate on proects
+- 📫 How to reach me: shrishtitripathi43@gmail.com
+- 😄 Pronouns: She/Her

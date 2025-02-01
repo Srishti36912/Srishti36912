@@ -9,6 +9,6 @@ Data Analysis| Data Visualization| Web Development
 
 - 🔭 I’m currently working on gathering opportunities for gaining experience
 - 🌱 I’m currently learning DSA in Java and Seaborn in Python
-- 👯 I’m looking to collaborate on proects
+- 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: shrishtitripathi43@gmail.com
 - 😄 Pronouns: She/Her

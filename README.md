@@ -5,7 +5,7 @@ Hello! 👋 My Name is Srishti Tripathi.👩 I am currently a student in Shri Ra
 I have a huge interest in Data Analysis and Machine Learning as well as coding!⌨ I am proficient in Python, SQL, Java, DSA and working on becoming a Data Analyst!
 
 ### Skills:
-Data Analysis| Data Visualization| Web Development
+Data Analysis | Data Visualization | Web Development
 
 - 🔭 I’m currently working on gathering opportunities for gaining experience
 - 🌱 I’m currently learning DSA in Java and Seaborn in Python

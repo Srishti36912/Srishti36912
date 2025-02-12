@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome!
+# Hi there 👋 Welcome!
 
 Hello! 👋 My Name is Srishti Tripathi.👩 I am currently a student in Shri Ramswaroop Memorial University taking B.Tech in Computer Science with specialization in Data Science and Artificial Intelligence.🤖
 

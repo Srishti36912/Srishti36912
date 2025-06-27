@@ -2,7 +2,7 @@
 
 Hello! 👋 My Name is Srishti Tripathi.👩 I am currently a student in Shri Ramswaroop Memorial University taking B.Tech in Computer Science with specialization in Data Science and Artificial Intelligence.🤖
 
-I have a huge interest in Data Analysis and Machine Learning as well as coding!⌨ I am proficient in Python, SQL, Java, DSA and working on becoming a Data Analyst!
+I have a huge interest in Data Analysis and Machine Learning as well as coding!⌨ I am proficient in Python, SQL, Java, DSA and working on becoming a Data Scientist!
 
 ### Skills:
 Data Analysis | Data Visualization | Web Development
